@@ -22,10 +22,12 @@ You can download the full dataset along with labeled CSV files from [kaggle/arya
 
 Aryan Anand
 
-**GitHub:** [aryann-anand](https://github.com/aryann-anand) \n
-**Kaggle:** [aryan0000](https://www.kaggle.com/aryan0000) \n
-**LinkedIn:** [aryan anand](https://www.linkedin.com/in/aryan-anand18) \n
+**GitHub:** [aryann-anand](https://github.com/aryann-anand)
+
+**Kaggle:** [aryan0000](https://www.kaggle.com/aryan0000)
+
+**LinkedIn:** [aryan anand](https://www.linkedin.com/in/aryan-anand18)
 
 Suhani Goel
 
-**GitHub:** [suhani goel](https://github.com/suhani2812) \n
+**GitHub:** [suhani goel](https://github.com/suhani2812)
