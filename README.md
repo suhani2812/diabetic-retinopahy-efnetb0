@@ -20,7 +20,7 @@ You can download the full dataset along with labeled CSV files from [kaggle/arya
 
 **Socials:**
 
-Aryan Anand
+--------------- Aryan Anand ---------------
 
 **GitHub:** [aryann-anand](https://github.com/aryann-anand)
 
@@ -28,6 +28,6 @@ Aryan Anand
 
 **LinkedIn:** [aryan anand](https://www.linkedin.com/in/aryan-anand18)
 
-Suhani Goel
+--------------- Suhani Goel ---------------
 
 **GitHub:** [suhani goel](https://github.com/suhani2812)
