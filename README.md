@@ -20,7 +20,7 @@ You can download the full dataset along with labeled CSV files from [Kaggle](htt
 ```
 
 
-**Developed By:**
+**Socials:**
 Aryan Anand
 
 **GitHub:** [aryann-anand](https://github.com/aryann-anand)
