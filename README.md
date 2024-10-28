@@ -4,7 +4,7 @@ This project uses a compact, efficient model based on EfficientNet B0 to classif
 
 ## Dataset
 
-You can download the full dataset along with labeled CSV files from [Kaggle](https://www.kaggle.com/datasets/aryananand18/diabetic-retinopathy).
+You can download the full dataset along with labeled CSV files from [kaggle/aryananand18](https://www.kaggle.com/datasets/aryananand18/diabetic-retinopathy).
 
 ## How to Run
 
@@ -14,13 +14,13 @@ You can download the full dataset along with labeled CSV files from [Kaggle](htt
 
    ```bash
    pip install torch torchvision efficientnet_pytorch pandas scikit-learn
+   pip install -r requirements.txt
 
-  ```bash
-  pip install -r requirements.txt
-```
 
 
 **Socials:**
+
+
 Aryan Anand
 
 **GitHub:** [aryann-anand](https://github.com/aryann-anand)
