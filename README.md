@@ -31,3 +31,12 @@ You can download the full dataset along with labeled CSV files from [kaggle/arya
 --------------- Suhani Goel ---------------
 
 **GitHub:** [suhani goel](https://github.com/suhani2812)
+**LinkedIn:** [suhani_goel](www.linkedin.com/in/suhani-goel-70683021b)
+
+
+----------------Aditya Agrawal--------------
+**Github:** [aditya_agrawal](https://github.com/Adityaagrawal102)
+**LinkedIn**:[aditya_agrawal](https://www.linkedin.com/in/aditya-agrawal-592b19270)
+
+
+
